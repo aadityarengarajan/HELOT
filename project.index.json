@@ -1,0 +1,13 @@
+{
+    "name": "HELOT",
+    "description": "An improvised version for effecient code // project management",
+    "created": "10/09/2021",
+    "completed": "false",
+    "modules": [
+        "flask"
+    ],
+    "hosting": {
+        "hosted": "false"
+    },
+    "code": "HE-10092021-210725"
+}
